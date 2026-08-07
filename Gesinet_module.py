@@ -1,3 +1,6 @@
+# Copyright (c) the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 # Gesinet_module.py
 import math
 import torch
