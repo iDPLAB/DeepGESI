@@ -1,3 +1,6 @@
+# Copyright (c) the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 #Dataset_Loader.py
 import os
 import json
