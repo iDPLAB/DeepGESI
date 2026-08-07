@@ -1,3 +1,6 @@
+# Copyright (c) the Lab of Intelligent Data Processing, Wakayama University.
+# All rights reserved.
+
 # train.py
 # Example:
 # python train.py --mode train --epochs 256 --cnn_activation maxout --mlp_activation maxout --pe_type rope --loss_type sent_frame
