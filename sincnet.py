@@ -1,5 +1,4 @@
-# Copyright (c) the Lab of Intelligent Data Processing, Wakayama University.
-# All rights reserved.
+#This code is from https://github.com/grausof/keras-sincnet
 
 import numpy as np
 import torch
