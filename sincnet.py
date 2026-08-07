@@ -1,4 +1,4 @@
-#This code is from https://github.com/grausof/keras-sincnet
+#This code is from https://github.com/mravanelli/SincNet/tree/master
 
 import numpy as np
 import torch
